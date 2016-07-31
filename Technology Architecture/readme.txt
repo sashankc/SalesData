@@ -1,0 +1,1 @@
+This folders will have artifacts related to technology architecture 
